@@ -1,36 +1,705 @@
-# My Learning Journey: Mathematics, Neuroscience & Neuroengineering (2025–2027)
+# Study Plan 2025–2027
+## Mathematics + Neuroscience + Physics + Neuroengineering
 
-## Overview
-This folder documents my structured 18-month learning plan to develop expertise in:
-- Computational Mathematics (Calculus → Differential Equations)
-- Neuroscience (Fundamentals → Computational)
-- Programming (Python for scientific computing)
-- Physics & Neuroengineering (Circuits → Biosignals → BCIs)
+**Start Date:** September 2025 | **Current Date:** January 6, 2026 | 
 
-## Why This Plan?
-Developing skills in cognitive science. This plan integrates:
-1. **Mathematics** — Foundation for signal processing and neural modeling
-2. **Neuroscience** — Biological grounding for computational approaches
-3. **Programming** — Implementation of algorithms and data analysis
-4. **Physics** — Bridge between theory and hands-on hardware projects
+---
 
-## Structure
-- **Parallel tracks** running simultaneously with integration points
-- **Progressive difficulty** from calculus fundamentals to brain-computer interfaces
-- **Time commitment**: 18–28 hours/week of structured learning
+## Executive Overview
 
-## Key Milestones
+Learning tracks:
 
-| Timeframe | Mathematics | Neuroscience | Programming | Physics |
-|-----------|-------------|--------------|-------------|---------|
-| Sep–Dec 2025 | Calculus I–II | — | Python basics | Phase 1–2: Circuits |
-| Jan–Apr 2026 | Calculus III | Foundation | Python projects | Phase 3–4: Op-amps |
-| May–Aug 2026 | Diff Equations | Systems | Data analysis | Phase 5–6: Biosignals |
-| Sep 2026–Apr 2027 | Advanced | Computational | ML | Phase 7–8: Capstone |
+- **Mathematics Foundation** (Calculus → Multivariable Calculus → Differential Equations → Advanced Mathematics)
+- **Neuroscience ** (Computational & Cellular focus, advancing to BCIs)
+- **Programming** (Python)
+- **Physics & Neuroengineering** (Hands-on projects from circuits to brain-computer interfaces)
 
-## Files in This Folder
-- **detailed-study-plan.md** — Complete breakdown of all courses and milestones
-- **progress-log/** — Monthly updates on learning progress
+The plan begins with Calculus fundamentals and progressively builds toward **professional-grade neuroengineering capabilities**, with hands-on hardware projects running in parallel to theoretical studies.
 
-**Current Status (January 2026):** Pre-university calculus completed, Python started, 
-neuroscience courses beginning, op-amp circuits in progress.
+---
+
+## Mathematics Track
+
+### Phase 1: Pre-university calculus (August-September 2025)
+| Course | Duration | Weekly Hours | Status | Completion Target | Resources |
+|--------|----------|--------------|--------|-------------------|-----------|
+| Pre-university calculus by DelftX on edX | 8 weeks | 6–8 | Audited ✅ | Dec 2025 |  |
+
+**Milestones:**
+- [✅] Audit
+- [🔴] Final exam and certificate
+
+
+### Phase 2: Calculus Foundation (September 2025 – May 2026)
+
+| Course | Duration | Weekly Hours | Status | Completion Target | Resources |
+|--------|----------|--------------|--------|-------------------|-----------|
+| Calculus 1A: Differentiation | 14 weeks | 8–10 | Audited | Dec 2025 | Calculus Vol 1, MITx |
+| Calculus 1B: Integration | 15 weeks | 8–10 | Not Started | Mar 2026 | Calculus Vol 2, MITx |
+| Calculus 1C: Coordinate Systems & Infinite Series | 13 weeks | 5–10 | Not Started  | May 2026 | Calculus Vol 3, MITx |
+
+**Milestones:**
+- [✅] Complete Calculus 1A by December 2025
+- [🟡 ] Complete Calculus 1B by March 2026
+- [🟡] Complete Calculus 1C by May 2026
+
+**Lecture Resources:** MIT OpenCourseWare, MITx platform, recorded lectures
+
+---
+
+### Phase 3: Multivariable Calculus (April 2026 – August 2026)
+
+| Course | Duration | Weekly Hours | Status | Completion Target | Resources |
+|--------|----------|--------------|--------|-------------------|-----------|
+| Multivariable Calculus 1: Vectors and Derivatives | 14 weeks | 8–10 | Not Started | May 2026 | MIT MITx |
+| Multivariable Calculus 2: Integrals | 13 weeks | 8–10 | Not Started | July 2026 | MIT MITx |
+| Multivariable Calculus 3: Theorems and Applications | 12 weeks | 5–8 | Not Started | August 2026 | MIT MITx |
+
+**Milestones:**
+- [🟡 ] Complete Multivariable Calculus 1 by May 2026
+- [🟡 ] Complete Multivariable Calculus 2 by July 2026
+- [🟡 ] Complete Multivariable Calculus 3 by August 2026
+
+---
+
+### Phase 4: Differential Equations (June 2026 – May 2027)
+
+| Course | Duration | Weekly Hours | Status | Completion Target | Prerequisites |
+|--------|----------|--------------|--------|-------------------|---|
+| Introduction to Differential Equations | 14 weeks | 7 | Not Started | Sept 2026 | Calculus 1A–1C |
+| Differential Equations: 2×2 Systems | 9 weeks | 5–8 | Not Started | Nov 2026 | Intro to Diff Eq |
+| Linear Algebra and NxN Systems | 11 weeks | 5–8 | Not Started | Feb 2027 | Diff Eq: 2×2 Systems |
+| Differential Equations: Fourier Series and Heat Equation | 9 weeks | 5–8 | Not Started | April 2027 | Linear Algebra |
+| Systems Functions and the Laplace Transform | 10 weeks | 3–6 | Not Started | May 2027 | Fourier Series/Heat |
+
+**Milestones:**
+- [🟡] Complete Introduction to Differential Equations by September 2026
+- [🟡] Complete 2×2 Systems by November 2026
+- [🟡] Complete Linear Algebra and NxN Systems by February 2027
+- [🟡] Complete Fourier Series and Heat Equation by April 2027
+- [🟡] Complete Laplace Transform by May 2027
+
+**Additional Resources:** Austin Algebra lectures, MIT recorded classroom lectures
+
+---
+
+## Programming Track
+
+### Phase 1: Python Fundamentals (September 2025 – December 2025)
+
+| Course | Status | Completion Target | Resources |
+|--------|--------|-------------------|-----------|
+| Python for Everybody Specialization (consisting of 5 courses): 1.Programming for Everybody (Getting Started with Python), 2. Python Data Structures, 3. Using Python to Access Web Data, 4. Using Databases with Python, 5. Capstone: Retrieving, Processing, and Visualizing Data with Python  | In progress | Nov 2025 | Coursera - self paced ⌛️ |
+| Computational Thinking Using Python courses 1: Introduction to Computer Science and Programming Using Python | Not Started | Starts Jan 2026 - March 2026 | MIT/edX - instructor led ⏳ |
+| Computational Thinking Using Python courses 2: Introduction to Computational Thinking and Data Science | Not Started | Starts Jan 2026 | MIT/edX - instructor led ⏳ |
+
+**Milestones:**
+- [✅] Python 1 by November 2025
+- [🟡] Python 2 by January 2026
+- [🟡] Introduction to Computer Science and Programming Using Python by March 2026
+- [🟡] Introduction to Computational Thinking and Data Science - from March? by July? ❓
+- [🟡] Python 3 by February 2026
+- [🟡] Python 4 by March 2026
+- [🟡] Python 5 by April 2026
+
+**Goal:** Prepare for computational neuroscience and embedded systems applications.
+
+---
+
+## Physics & Neuroengineering Track: 18-Month Hands-On Program
+
+### Overview
+
+This track transforms theoretical physics knowledge into **professional neuroengineering capabilities** through 8 integrated phases. Each phase combines theory, hardware prototyping, and measurable outcomes—progressing from basic circuits to clinical-grade brain-computer interfaces.
+
+---
+
+### Phase 1: Foundational Electronics (January – March 2026 | Weeks 1–6)
+
+**Weekly Time Commitment:** 6–8 hours
+
+| Topic | Project | Key Concepts | Hardware | Status |
+|-------|---------|--------------|----------|--------|
+| Timing and Frequency | 555-timer LED flasher | Oscillation, frequency control | 555 timer, LEDs, resistors | Materials bought, not Started |
+| Analog Sensing | Light-activated relay | Transduction, voltage comparators | LDR, relay, power supply | Materials bought, not Started  |
+| Voltage Measurement | Battery indicator circuit | Voltage comparison, LED indication | Multimeter, batteries | Materials bought, not Started  |
+
+**Learning Outcomes:**
+- Understand component behavior and timing constants
+- Build and test simple circuits on breadboards
+- Measure signals with multimeter
+- Modify component values and observe direct effects
+
+**Resources:** Breadboards, basic components, multimeter
+
+**Milestones:**
+- [ ] 555-timer flasher working by March 2026
+- [ ] All three projects completed by March 2026
+
+---
+
+### Phase 2: Digital Control & Microcontrollers (April 2026 – June 2026 | Weeks 7–14)
+
+**Weekly Time Commitment:** 7–9 hours
+
+| Topic | Project | Key Concepts | Hardware | Status |
+|-------|---------|--------------|----------|--------|
+| State Machines | Traffic light controller | Sequential logic, PWM | Arduino Uno, LEDs | Not Started |
+| Sensor Integration | Temperature monitoring | Analog input, decision logic | Temperature sensor, LCD | Not Started |
+| Motor Control | Servo motor positioning | Pulse width modulation (PWM) | Servo, potentiometer | Not Started |
+| Multi-sensor Logic | Motion-detection alarm | Sensor fusion, threshold logic | PIR sensor, buzzer | Not Started |
+
+**Learning Outcomes:**
+- Write C/C++ sketches for Arduino
+- Interface sensors to microcontroller
+- Implement real-time control loops
+- Debug and observe behavioral changes with code modifications
+
+**Resources:** Arduino Uno, sensors, development environment (Arduino IDE)
+
+**Milestones:**
+- [ ] Traffic light controller working by November 2025
+- [ ] All four projects completed by December 2025
+- [ ] Comfortable with Arduino programming by end of phase
+
+---
+
+### Phase 3: Analog Electronics & Signal Conditioning (July – September 2026 | Weeks 15–22)
+
+**Weekly Time Commitment:** 8–10 hours | **Parallel to:** Differential calculus completion, Python completion
+
+| Topic | Project | Key Concepts | Hardware | Status |
+|-------|---------|--------------|----------|--------|
+| Amplification | Non-inverting amplifier | Gain calculation, frequency response | Op-amps (TL072), function generator | Not Started |
+| Differential Sensing | Differential amplifier | CMRR, noise rejection | Instrumentation amp (INA128) | Not Started |
+| Filtering | Active low-pass filter | Cutoff frequency, roll-off | Op-amp filters, oscilloscope | Not Started |
+| Bioamplifier | ECG front-end (3-stage) | Real specifications, noise performance | ECG electrodes, custom circuit | Not Started |
+
+**Learning Outcomes:**
+- Design op-amp circuits with specific gain
+- Measure frequency response using function generator
+- Understand filtering and noise rejection
+- Build realistic bioamplifier for biosignal acquisition
+
+**Critical Tools:**
+- Oscilloscope (essential for signal observation)
+- Function generator (for frequency sweeps)
+- Breadboard and components
+
+**Resources:** Op-amp ICs, resistors, capacitors, oscilloscope access
+
+**Milestones:**
+- [ ] Non-inverting amplifier tested by August 2026
+- [ ] Differential amplifier working by mid-September 2026
+- [ ] Complete ECG amplifier by end of September 2026
+
+---
+
+### Phase 4: Microcontroller Integration & Real-Time Processing (October – December 2026 | Weeks 23–32)
+
+**Weekly Time Commitment:** 8–10 hours | **Parallel to:** Multivariable Calculus, Neuroscience foundation
+
+| Topic | Project | Key Concepts | Hardware | Status |
+|-------|---------|--------------|----------|--------|
+| Pulse Oximetry | DIY pulse oximeter | Transimpedance amplification, AC/DC separation | LEDs, photodiode, TIA | Not Started |
+| Closed-loop Control | PID temperature controller | Kp, Ki, Kd tuning, feedback systems | Temperature sensor, heater, display | Not Started |
+| Muscle Signals | EMG signal acquisition | Electrode placement, gesture recognition | Surface electrodes, amplifier | Not Started |
+| Wireless Integration | Bluetooth heart-rate monitor | Wireless protocols, power management, wearables | Bluetooth module, battery | Not Started |
+
+**Learning Outcomes:**
+- Integrate analog front-ends with Arduino ADC
+- Implement real-time filtering on microcontroller
+- Understand sampling and quantization
+- Design wearable systems with wireless capability
+
+**Resources:** Teensy 3.6 (recommended for DSP performance), Bluetooth modules, biomedical sensors
+
+**Milestones:**
+- [ ] Pulse oximeter functional by Oct 2026
+- [ ] PID controller tuned by Nov 2026
+- [ ] EMG acquisition working by Nov 2026
+- [ ] Wireless integration complete by Dec 2026
+
+---
+
+### Phase 5: Signal Processing & Digital Signal Processing (2027 | Weeks 33–40)
+
+**Weekly Time Commitment:** 6–8 hours | **Parallel to:** Multivariable Calculus completion, Diff Eq start, Neuroscience courses
+
+| Topic | Project | Key Concepts | Hardware/Software | Status |
+|-------|---------|--------------|-------------------|--------|
+| Spectral Analysis | Real-time FFT on embedded system | Frequency domain, Nyquist theorem, aliasing | ArduinoFFT, Teensy, oscilloscope | Not Started |
+| Digital Filtering | IIR filter implementation | Filter design, computational efficiency, latency | C++ implementation on microcontroller | Not Started |
+| Adaptive Filtering | Motion artifact removal | Adaptive algorithms, correlated noise rejection | Python + embedded testing | Not Started |
+| Data Logging | Time-series acquisition | High-speed SD card logging, data export | SD module, data analysis tools | Not Started |
+
+**Learning Outcomes:**
+- Implement FFT on resource-constrained hardware
+- Design and test digital filters
+- Understand real-time processing constraints
+- Log and analyze multi-channel data
+
+**Resources:** MATLAB/Python (scipy, numpy), Teensy/STM32, oscilloscope
+
+**Milestones:**
+- [ ] Real-time FFT working by 2027
+- [ ] IIR filter tested by 2027
+- [ ] Adaptive filtering working by 2027
+- [ ] Data logging system operational by 2027
+
+---
+
+### Phase 6: Biosignal Acquisition & Neuroengineering Foundations (2027 | Weeks 41–52)
+
+**Weekly Time Commitment:** 10–12 hours | **Parallel to:** Differential Equations 2×2 Systems, Advanced Neuroscience courses
+
+| Topic | Project | Key Concepts | Hardware/Software | Status |
+|-------|---------|--------------|-------------------|--------|
+| EEG Acquisition | 10-20 electrode system | Brain rhythm recording, electrode placement, impedance | OpenBCI or custom circuit, MNE-Python | Not Started |
+| Spectral Analysis | Alpha rhythm detection | Frequency bands (alpha, beta, theta), Fourier analysis | MNE-Python, scipy | Not Started |
+| Multi-modal Decoding | EMG + EEG gesture recognition | Feature extraction, classifier training, cross-validation | scikit-learn, TensorFlow | Not Started |
+| Brain-Machine Interface | Motor imagery BCI | Event-related desynchronization (ERD), classification | Custom acquisition + ML pipeline | Not Started |
+| Health Monitor | Multi-modal integration | ECG + EMG + motion fusion, anomaly detection | Data fusion algorithms, real-time processing | Not Started |
+
+**Learning Outcomes:**
+- Record and process real EEG/EMG data
+- Extract relevant features from neural signals
+- Train machine learning classifiers
+- Build proof-of-concept brain-computer interface
+- Integrate multiple biosignal modalities
+
+**Critical Tools:**
+- EEG headset (OpenBCI, Emotiv, or custom ADC-based system)
+- MNE-Python (neuroscience data processing standard)
+- Machine learning libraries (scikit-learn or TensorFlow)
+- Signal processing expertise from Phase 5
+
+**Resources:**
+- *Neuronal Dynamics* – Gerstner et al.
+- *Theoretical Neuroscience* – Dayan & Abbott
+- MNE-Python documentation and tutorials
+- OpenBCI community resources
+
+**Milestones:**
+- [ ] EEG recording system working by 2027
+- [ ] Alpha rhythm detected and visualized by 2027
+- [ ] EMG + EEG multi-modal classifier trained by 2027
+- [ ] Motor imagery BCI functional by 2027
+- [ ] Multi-modal health monitor integrated by 2027
+
+---
+
+### Phase 7: Advanced Digital Design & System Integration (2027 | Weeks 53–64)
+
+**Weekly Time Commitment:** 9–11 hours | **Parallel to:** Linear Algebra, Advanced Neuroscience simulations
+
+| Topic | Project | Key Concepts | Hardware/Software | Status |
+|-------|---------|--------------|-------------------|--------|
+| PCB Design | Custom bioamplifier PCB | Schematic capture, layout, manufacturing | KiCad, JLCPCB/PCBWay | Not Started |
+| High-speed Signal Processing | 64+ channel EEG system | FPGA acceleration, high-speed ADC, data streaming | Vivado/Quartus, Basys 3 FPGA (~$100) | Not Started |
+| Real-time OS | FreeRTOS integration | Task scheduling, concurrent sampling/processing | FreeRTOS, STM32 microcontroller | Not Started |
+| Power Management | Wearable battery design | Low-power architectures, wireless efficiency | Battery analysis, power profiling | Not Started |
+| Signal Integrity | EMI shielding, impedance matching | Noise reduction, grounding strategies, measurement | Oscilloscope, network analyzer | Not Started |
+
+**Learning Outcomes:**
+- Design production-quality PCBs
+- Implement FPGA-accelerated signal processing
+- Manage real-time operating system tasks
+- Build low-power, wireless-capable devices
+- Ensure signal integrity in biomedical systems
+
+**Resources:**
+- KiCad (open-source PCB design)
+- Vivado/Quartus (FPGA design suites)
+- FreeRTOS (real-time OS)
+- Git version control
+
+**Milestones:**
+- [ ] PCB designed and ordered by 2027
+- [ ] FPGA signal processing working by 2027
+- [ ] FreeRTOS multi-task system operational by 2027
+- [ ] Power profiling and optimization by 2027
+
+---
+
+### Phase 8: Capstone Project – Professional Neuroengineering System (2027| Weeks 65–78)
+
+**Weekly Time Commitment:** 12–15 hours | **Parallel to:** Differential Equations completion, Final Neuroscience simulation projects
+
+Choose **one** of four professional-grade capstone projects:
+
+#### **Capstone Option A: Hybrid Brain-Machine Interface (BMI) for Prosthetic Control**
+
+**Goal:** Combine EEG and EMG signals to control a robotic limb or simulated prosthetic hand.
+
+**Deliverables:**
+- Hardware: Bioamplifier PCB, EEG headset, EMG electrode arrays
+- Firmware: Real-time acquisition, artifact rejection, feature extraction
+- Software: Classifier training, online prediction, prosthetic control algorithm
+- Validation: Accuracy metrics, latency measurement, user testing
+
+**Key Technologies:** EEG + EMG fusion, motor cortex decoding, real-time classification, robotic control
+
+**Professional Application:** Assistive BCIs for paralyzed individuals
+
+---
+
+#### **Capstone Option B: Clinical-Grade Wearable Cardiovascular Monitor**
+
+**Goal:** Design and validate a professional ECG/HRV (heart rate variability) monitoring system.
+
+**Deliverables:**
+- Hardware: Custom ECG amplifier, wireless module, wearable enclosure
+- Firmware: Real-time QRS detection, arrhythmia recognition, data transmission
+- Software: Cloud data storage, analytics dashboard, alert systems
+- Validation: Comparison against clinical reference (gold standard), clinical protocols
+
+**Key Technologies:** Precision analog design, real-time signal processing, wireless security, cloud integration
+
+**Professional Application:** Remote patient monitoring, cardiac rehabilitation
+
+---
+
+#### **Capstone Option C: Closed-Loop Neurofeedback System for Cognitive Enhancement**
+
+**Goal:** Build a real-time brain signal biofeedback system for meditation, focus, or cognitive training.
+
+**Deliverables:**
+- Hardware: EEG acquisition system, visual/auditory feedback hardware
+- Firmware: Alpha/theta band detection, real-time feedback triggering
+- Software: Meditation app interface, progress tracking, machine learning personalization
+- Validation: Cognitive improvement metrics, user experience assessment
+
+**Key Technologies:** EEG spectral analysis, real-time feedback loops, adaptive algorithms, user interface design
+
+**Professional Application:** Mental health interventions, neurofeedback therapy
+
+---
+
+#### **Capstone Option D: Multi-Articulate Prosthetic Hand Control via EMG Decoding**
+
+**Goal:** Implement fine motor control of a multi-degree-of-freedom prosthetic limb from surface EMG.
+
+**Deliverables:**
+- Hardware: Multi-channel EMG electrodes, real-time embedded processor
+- Firmware: Multi-muscle pattern recognition, motor command decoding
+- Software: ML classifier for 5+ hand gestures, proportional control mapping
+- Validation: Gesture recognition accuracy, response latency, user control fidelity
+
+**Key Technologies:** EMG feature extraction, multi-class classification, proportional servo control, adaptive learning
+
+**Professional Application:** Advanced prosthetics for amputees, restored hand function
+
+---
+
+**Capstone Deliverables (All Options Include):**
+
+1. **Complete Hardware System** – PCB, working prototype, documented design
+2. **Firmware & Software** – Fully functional, version-controlled code (GitHub)
+3. **Validation Study** – Comparison to clinical references or predefined metrics
+4. **Technical Documentation** – Design rationale, performance analysis, lessons learned
+5. **Presentation** – Professional report + demo video
+
+**Milestones:**
+- [🟡] Capstone option selected by 2027
+- [🟡] Hardware prototype constructed by 2027
+- [🟡] Software/firmware fully functional by 2027
+- [🟡] Validation testing and refinement by 2027
+- [🟡] Final documentation and presentation by 2027
+
+---
+
+## Neuroscience Track
+
+### Phase 1: Foundation Courses (January 2026 – June 2026)
+
+| Course | Institution | Weekly Hours | Status | Completion Target | Prerequisites |
+|--------|-------------|--------------|--------|-------------------|---|
+| Microbachelors in Neuroscience - Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron | Harvard | 6–8 | In progress | June 2026 | Biology basics |
+| Neurons, Synapses and Brains | University of Jerusalem (Coursera) | 5–7 | Audited, tests pending | April 2026 | None required |
+| Cognitive Science | University of Edinburgh (Coursera) | 5–7 | Not Started | April 2026 | None required |
+| Neuroscience for Neuroimaging | Johns Hopkins | 6–8 | Not Started | June 2026 | Intro neuroscience |
+
+**Milestones:**
+- [🔴 module 1 done] Microbachelors in Neuroscience - Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron by Jan 2026
+- [✅ 🔴 test missing] Neurons, Synapses and Brains - tests done by Jan 2026
+- [🟡] Microbachelors in Neuroscience - Fundamentals of Neuroscience, Part 2: Neurons and Networks by April 2026
+- [🔴 ] Cognitive Science completed by January 2026
+- [🟡 ] Microbachelors in Neuroscience - Fundamentals of Neuroscience, Part 3: The Brain by May 2026
+- [🟡] Microbachelors in Neuroscience - Fundamentals of Neuroscience, Part 4: Final Exam by June 2026
+- [🟡] Neuroimaging course completed by June 2026
+
+---
+
+### Phase 2: Cellular and Systems Neuroscience (May 2026 – October 2026)
+
+| Course | Duration | Weekly Hours | Status | Completion Target | Prerequisites |
+|--------|----------|--------------|--------|-------------------|---|
+| Neuroscience Reconstructed: Genetics and Development | 9 weeks | 5 | Not Started | June 2026 | Basic cell biology, intro neuroscience |
+| Cellular Mechanisms of Brain Function | 8 weeks | 5 | Not Started | August 2026 | Introductory neuroscience |
+| Computational Neuroscience: Neuronal Dynamics of Cognition | 12 weeks | 7 | Not Started | September 2026 | Calculus, Diff Eq, Linear Algebra, Python |
+
+**Milestones:**
+- [🟡] Genetics and Development completed by June 2026
+- [🟡] Cellular Mechanisms completed by August 2026
+- [🟡] Neuronal Dynamics started by September 2026
+
+**Recommended Books:**
+- *Principles of Neural Science* – Kandel et al.
+- *Neuronal Dynamics* – Gerstner et al.
+
+**Integration with Physics Track:** Projects from Phase 4–6 of the Physics track (EMG/EEG acquisition) provide hands-on biological signal experience to complement theoretical neuroscience.
+
+---
+
+### Phase 3: Advanced Computational Neuroscience (August 2026 – April 2027)
+
+| Course | Duration | Weekly Hours | Status | Completion Target | Prerequisites |
+|--------|----------|--------------|--------|-------------------|---|
+| Simulating a Hippocampus Microcircuit | 6 weeks | 8 | Not Started | September 2026 | Python, neuron basics, synaptic modeling |
+| Simulation Neuroscience | 9 weeks | 9–10 | Not Started | November 2026 | Advanced Python, neurophysiology, HPC |
+| The Multiscale Brain | 7 weeks | 9–10 | Not Started | April 2027 | Full-stack neuroscience, math, computation |
+
+**Milestones:**
+- [🟡] Hippocampus Simulation completed by September 2026
+- [🟡] Simulation Neuroscience completed by November 2026
+- [🟡] Multiscale Brain completed by April 2027
+
+**Recommended Resources:**
+- *Theoretical Neuroscience* – Dayan & Abbott
+- Course PDFs and project-based learning
+- Neuron simulator documentation
+
+**Integration with Physics & Math Tracks:**
+- Differential equations (Phase 3 Math) provide theoretical foundation for neural dynamics
+- Physics Phase 6 (actual EEG/EMG recordings) validate and inform computational models
+- Linear algebra (Diff Eq courses) essential for neural network computations
+
+**Note:** Consider Washington Computational Neuroscience program as supplementary resource.
+
+---
+
+## Integrated Timeline & Synchronization Points
+
+### Key Integration Opportunities
+
+**September – October 2025:**
+- Calculus 1A (differentiation) ↔ Physics Phase 1 (basic circuits, timing constants)
+- Python fundamentals ↔ Arduino C/C++ introduction
+
+**November – December 2025:**
+- Calculus 1B (integration) ↔ Physics Phase 2 (digital control, state machines)
+- Python completion prepares for Phase 4–5 DSP work
+
+**January – March 2026:**
+- Calculus 1C ↔ Physics Phase 3 (op-amp design, frequency response)
+- Differential Equations start ↔ Neural dynamics preparation
+- Neuroscience foundation begins
+
+**March – June 2026:**
+- Multivariable Calculus ↔ Physics Phase 4 (real-time processing, feedback control)
+- Cellular/Systems Neuroscience ↔ EMG/ECG signal acquisition projects
+
+**June – August 2026:**
+- Multivariable Calculus completion ↔ Physics Phase 5 (DSP, signal processing)
+- Neuroscience courses + Differential Equations in parallel
+
+**August – October 2026:**
+- Differential Equations: 2×2 Systems ↔ Physics Phase 6 (EEG/EMG, multi-modal integration)
+- Computational Neuroscience: Neuronal Dynamics ↔ Real biosignal recording experience
+- Advanced Neuroscience begins
+
+**October 2026 – May 2027:**
+- Linear Algebra & Differential Equations completion ↔ Physics Phase 7–8 (PCB design, capstone)
+- Advanced Computational Neuroscience (hippocampus, multiscale brain) ↔ Capstone integration
+- **Final Month:** Integrate capstone outcomes into neuroscience simulations
+
+---
+
+## Hardware & Software Tools Reference
+
+### Essential Equipment Checklist
+
+**Phase 1–2 (Basic):**
+- [ ] Breadboards, jumper wires, basic components
+- [ ] Arduino Uno starter kit
+- [ ] Digital multimeter
+
+**Phase 3 (Intermediate):**
+- [ ] Oscilloscope (used/low-cost acceptable)
+- [ ] Function generator
+- [ ] Op-amp ICs, precision resistors/capacitors
+- [ ] ~~$200–400~~
+
+**Phase 4–5 (Advanced):**
+- [ ] Teensy 3.6 or STM32 microcontroller
+- [ ] Biomedical sensors (temperature, light, motion)
+- [ ] SD card module for data logging
+
+**Phase 6 (Biosignal):**
+- [ ] EEG headset (OpenBCI ~$500, Emotiv ~$300, or custom)
+- [ ] Surface electrodes for EMG/ECG
+- [ ] Conductive gel/paste
+- [ ] ~~$300–800 depending on choice~~
+
+**Phase 7–8 (Professional):**
+- [ ] PCB prototyping (JLCPCB/PCBWay, ~$20–50 per iteration)
+- [ ] Basys 3 FPGA board (~$100)
+- [ ] SMD soldering equipment (reflow oven or hot plate)
+- [ ] Precision measurement tools (power meter, network analyzer)
+
+**Total Hardware Investment:** ~$1500–2500 over 18 months
+
+---
+
+### Software Platforms & Languages
+
+**Phase 1–2:** 
+- Breadboarding simulation (optional: Tinkercad)
+- Arduino IDE (C/C++)
+
+**Phase 3–4:**
+- Arduino IDE
+- MATLAB/Octave (for filter design)
+
+**Phase 5–6:**
+- Python 3.8+ (NumPy, SciPy, Matplotlib)
+- MNE-Python (EEG/MEG processing)
+- scikit-learn or TensorFlow (machine learning)
+- Jupyter notebooks for analysis
+
+**Phase 7–8:**
+- KiCad (PCB design)
+- Vivado/Quartus (FPGA, free editions)
+- FreeRTOS (real-time OS)
+- Git/GitHub (version control)
+- Platform: STM32CubeIDE or similar for firmware
+
+---
+
+## Study Strategies and Time Management
+
+### Weekly Hour Allocation (Flexible)
+
+**September 2025 – December 2025:**
+- Mathematics (Calculus 1A–1B): 8–10 hours/week
+- Programming (Python): 4–6 hours/week
+- Physics (Phase 1–2): 6–8 hours/week
+- **Total:** 18–24 hours/week
+
+**January 2026 – June 2026:**
+- Mathematics (Calculus 1C, Multivariable): 8–10 hours/week
+- Neuroscience (Foundation): 5–7 hours/week
+- Physics (Phase 3–4): 8–10 hours/week
+- Programming (Applied): 2–3 hours/week
+- **Total:** 23–30 hours/week
+
+**July 2026 – May 2027:**
+- Mathematics (Differential Equations): 5–8 hours/week
+- Neuroscience (Advanced Computational): 8–10 hours/week
+- Physics (Phase 5–8, Capstone): 9–12 hours/week
+- **Total:** 22–30 hours/week
+
+**Adjustment Principle:** Prioritize in order of prerequisite dependency:
+1. **Mathematics** (foundation for everything else)
+2. **Physics/Engineering** (hands-on application and learning)
+3. **Neuroscience** (builds on both math and engineering)
+4. **Programming** (support tool across all areas)
+
+---
+
+### Active Learning Methods
+
+1. **Problem Sets:** Complete all assigned problem sets (not optional)—critical for retention
+2. **Coding:** Implement mathematical concepts in Python and Arduino
+3. **Hardware Building:** Physically construct circuits; troubleshoot with oscilloscope
+4. **Visualization:** Create plots/animations of calculus, DE, and neural models
+5. **Reading:** Supplement lectures with recommended textbooks
+6. **Discussion:** Join course forums, online communities, neuroscience study groups
+7. **Projects:** Build integrative projects combining multiple courses
+8. **Documentation:** Write clear lab notes and technical documentation
+9. **Peer Feedback:** Share work with study partners or mentors for critique
+
+---
+
+## Success Metrics
+
+### Mathematics Track
+- [ ] Proficiency in differentiation and integration
+- [ ] Mastery of multivariable calculus applications
+- [ ] Deep understanding of differential equations and their applications
+- [ ] Ability to model physical and biological systems mathematically
+
+### Programming Track
+- [ ] Fluency in Python for scientific computing (NumPy, SciPy, Matplotlib)
+- [ ] Ability to implement mathematical algorithms
+- [ ] Competency in Arduino/embedded C programming
+- [ ] Ready for advanced neuroscience modeling and biosignal processing
+
+### Physics & Neuroengineering Track
+- [ ] Build functioning circuits from foundational electronics through bioamplifiers
+- [ ] Design and test signal processing systems on real hardware
+- [ ] Record and analyze EEG/EMG biosignals
+- [ ] Implement machine learning classifiers on embedded systems
+- [ ] Complete professional-grade capstone project (PCB design, validation, documentation)
+
+### Neuroscience Track
+- [ ] Comprehensive understanding of neural organization and function
+- [ ] Ability to simulate neural circuits (hippocampal microcircuit)
+- [ ] Proficiency in computational approaches to neuroscience
+- [ ] Understanding of multiscale brain function (molecular to systems level)
+- [ ] Integration of computational models with real biosignal data from Physics track
+
+---
+
+## Next Steps & Immediate Actions
+
+### By End of January 2026
+1. [ ] Review Calculus 1A and 1B progress
+2. [ ] Confirm enrollment/access to Calculus 1C materials
+3. [ ] Gather multivariable calculus resources (MITx)
+4. [ ] Complete Python fundamentals; identify any gaps
+5. [ ] **Start Physics Phase 3:** Order op-amp ICs and passive components; set up breadboard workbench
+6. [ ] Research neuroscience course starting requirements
+7. [ ] Confirm all recommended textbooks are available
+8. [ ] Create organized folder structure for all course materials
+9. [ ] Set up progress tracking spreadsheet or system
+10. [ ] Join online communities for accountability (Reddit r/learnmath, r/neuroscience, Arduino forums, etc.)
+
+### By End of March 2026
+1. [ ] Complete Calculus 1B
+2. [ ] Begin Calculus 1C
+3. [ ] Start Multivariable Calculus sequence
+4. [ ] Confirm Differential Equations timeline
+5. [ ] Neuroscience courses well-underway
+6. [ ] **Physics Phase 3 complete:** ECG amplifier working, oscilloscope skills solid
+7. [ ] Begin Phase 4 projects (pulse oximeter, PID controller)
+8. [ ] Python projects incorporating calculus concepts
+
+### By End of June 2026
+1. [ ] All foundation math courses on track
+2. [ ] Neuroscience foundation layer complete
+3. [ ] Introduction to Differential Equations started
+4. [ ] Python at intermediate level
+5. [ ] **Physics Phase 4 complete:** Real-time embedded systems working
+6. [ ] Begin Phase 5 DSP projects (FFT, digital filters)
+7. [ ] Equipment procured for Phase 6 (EEG system decision made)
+
+### By End of October 2026
+1. [ ] Differential Equations 2×2 Systems complete
+2. [ ] **Physics Phase 6 complete:** EEG/EMG acquisition functional, multi-modal classifier trained
+3. [ ] Computational Neuroscience courses well-advanced
+4. [ ] Hippocampus simulation project underway
+
+### By End of February 2027
+1. [ ] Linear Algebra complete
+2. [ ] **Physics Phase 7 complete:** PCB design finalized, FPGA signal processing working
+3. [ ] Capstone project selected and planning underway
+4. [ ] Advanced neuroscience simulation projects in final stages
+
+### By End of May 2027
+1. [ ] All Differential Equations complete
+2. [ ] **Physics Phase 8 Capstone complete:** Professional-grade system delivered with validation
+3. [ ] Advanced Neuroscience simulations complete
+4. [ ] Ready for professional roles in neuroengineering, computational neuroscience, or biomedical device development
+
